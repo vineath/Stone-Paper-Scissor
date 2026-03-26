@@ -8,6 +8,7 @@ A fun and interactive Stone Paper Scissors game built using HTML, CSS, and JavaS
 🔄 Reset / Play again functionality
 💡 Simple and clean user interface
 
+
 🛠️ Tech Stack
 HTML – Structure of the game
 CSS – Styling and layout
